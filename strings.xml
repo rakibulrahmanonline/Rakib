@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Launcher</string>
+    <string name="search">খুঁজুন</string>
+    <string name="search_hint">অ্যাপ খুঁজুন</string>
+    <string name="dock_add">ডকে যোগ করুন</string>
+    <string name="dock_remove">ডক থেকে সরান</string>
+    <string name="dock_full">ডকে সর্বোচ্চ ৪টি অ্যাপ রাখা যায়</string>
+    <string name="app_info">অ্যাপের তথ্য</string>
+    <string name="uninstall">আনইনস্টল</string>
+    <string name="no_results">কোনো অ্যাপ পাওয়া যায়নি</string>
+</resources>
